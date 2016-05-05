@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     override func viewWillAppear(animated: Bool) {
         
         //ユーザーデフォルトから保存されたデータを取り出す
-        //ここまでは書きと一緒
+        //ここまでは下記と一緒
         var myDefault = NSUserDefaults.standardUserDefaults()
         
         
